@@ -1,0 +1,9 @@
+# Python 缓存与临时文件（不应上传到 GitHub）
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# 本地环境变量 / 密钥（如有，切勿上传）
+.env
+*.local

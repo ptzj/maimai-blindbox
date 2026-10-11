@@ -1,0 +1,14 @@
+[
+  {"code": "M1", "name": "巨无霸套餐", "category": "套餐", "price": 32.0, "tags": ["招牌"]},
+  {"code": "M2", "name": "麦辣鸡腿堡", "category": "汉堡", "price": 21.0, "tags": ["辣"]},
+  {"code": "M3", "name": "板烧鸡腿堡", "category": "汉堡", "price": 22.0, "tags": []},
+  {"code": "M4", "name": "双层吉士堡", "category": "汉堡", "price": 18.0, "tags": []},
+  {"code": "M5", "name": "新品·黑松露风味堡", "category": "汉堡", "price": 28.0, "tags": ["新品", "限定"]},
+  {"code": "D1", "name": "可口可乐(中)", "category": "饮料", "price": 9.0, "tags": []},
+  {"code": "D2", "name": "鲜煮咖啡", "category": "热饮", "price": 12.0, "tags": ["招牌"]},
+  {"code": "D3", "name": "雪碧(中)", "category": "饮料", "price": 9.0, "tags": []},
+  {"code": "S1", "name": "薯条(中)", "category": "小食", "price": 11.0, "tags": []},
+  {"code": "S2", "name": "麦辣鸡翅", "category": "小食", "price": 13.0, "tags": ["辣"]},
+  {"code": "S3", "name": "苹果派", "category": "派", "price": 7.0, "tags": ["甜品"]},
+  {"code": "S4", "name": "新品·樱花麦旋风", "category": "甜品", "price": 15.0, "tags": ["新品", "限定", "甜品"]}
+]
